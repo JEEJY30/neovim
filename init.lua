@@ -1,0 +1,5 @@
+require("theNvim")
+print("hello")
+
+
+
